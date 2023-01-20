@@ -21,7 +21,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
         text: `${usedPrefix}${command} ${text}`,
         title: "",
         jpegThumbnail: await (
-          await fetch("https://telegra.ph/file/d9c17295943787a7c7354.jpg")
+          await fetch("https://i.postimg.cc/PJ8t6HWy/images-3.jpg")
         ).buffer(),
       },
     },
@@ -42,7 +42,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   });
   conn.send2ButtonLoc(
     m.chat,
-    "https://telegra.ph/file/3324243c9673f484c5930.jpg",
+    "https://i.postimg.cc/PJ8t6HWy/images-3.jpg",
     `Masalah telah di laporkan ke @${
       global.owner[0].split("@")[0]
     }, jika ${command.toLowerCase()} hanya main-main tidak akan ditanggapi.`,
