@@ -31,7 +31,7 @@ item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
 item1.TEL;waid=6288971848186:6288971848186@s.whatsapp.net
 item1.X-ABLabel: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
 // Jangan Di Ganti Nomer Yang Bawah!! Jangan Lupa berterima kasih 
-item2.TEL;waid=6285850539404:6285850539404@s.whatsapp.net
+item2.TEL;waid=6288971848186:6288971848186@s.whatsapp.net
 item2.X-ABLabel: Creator Bot
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
