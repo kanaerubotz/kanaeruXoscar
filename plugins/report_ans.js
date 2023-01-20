@@ -13,7 +13,7 @@ handler.before = async function (m, { conn, isOwner }) {
     key: {
       fromMe: false,
       participant: `0@s.whatsapp.net`,
-      ...(m.chat ? { remoteJid: "6285850539404-1625305606@g.us" } : {}),
+      ...(m.chat ? { remoteJid: "6288971848186-1625305606@g.us" } : {}),
     },
     message: {
       videoMessage: {
@@ -25,7 +25,7 @@ handler.before = async function (m, { conn, isOwner }) {
 Rindu Jadi Kan Rasa Dekat 
 Bukan Menjauh`,
         jpegThumbnail: await (
-          await fetch("https://telegra.ph/file/d9c17295943787a7c7354.jpg")
+          await fetch("https://i.postimg.cc/MKcNHLWj/images-4.jpg")
         ).buffer(),
       },
     },
