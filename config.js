@@ -1,13 +1,13 @@
-global.you = ['6285850539404'] 
+global.you = ['6288971848186'] 
 //Developer Bot
 global.namebot = 'oscar'
-global.rowner = ['6285850539404', '16199961931'] // Real Owner Bot
-global.owner = ['6285850539404'] // Owner Bot
+global.rowner = ['6288971848186', '6281223202586'] // Real Owner Bot
+global.owner = ['6288971848186'] // Owner Bot
 global.police = [] // Police Bot
 global.mods = []  // Want some help?
 global.prems = [] // Premium user has unlimited limit
 
-global.helper = ['6285850539404']
+global.helper = ['6288971848186']
 global.api = '45083080630f3830a5bed882'
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -61,7 +61,7 @@ global.socket = {
 
 global.useMulti = false
 
-global.media = 'https://telegra.ph/file/1a432751096d4d399a8c4.jpg'
+global.media = 'https://i.postimg.cc/MKcNHLWj/images-4.jpg'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -70,24 +70,24 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/537edd58e7f8849a7dc50.jpg'
+global.thumbdoc = 'https://i.postimg.cc/PJ8t6HWy/images-3.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 //global sosialmedia oscar
-global.sc = "⫹⫺ Nih Jangan Lupa Kasih Star https://github.com/JarotOffc?tab=repositories"
-global.sgc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.gc1 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://instagram.com/Jarotr_'
-global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@Jarotoffc'
-global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/KGuKY4wuKHS8sj6K5IHjFG'
+global.sc = "⫹⫺ Nih Jangan Lupa Kasih Star https://github.com/kanaerubotz?tab=repositories"
+global.sgc = 'https://chat.whatsapp.com/JpaXzAZ83Tc0rEk2uUHr4d'
+global.gc1 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/JpaXzAZ83Tc0rEk2uUHr4d'
+global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://instagram.com/doppler_sha'
+global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@zyca2239'
+global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/JpaXzAZ83Tc0rEk2uUHr4d'
 global.diskusi = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/LKxOImbU62e9sgai6Ow2Ef'
 // Sticker WM
-global.packname = 'Jarot offc'
-global.author = 'Jarot offc'
-global.wm = '© Jarot offc'
+global.packname = 'KanaeruBotz'
+global.author = 'KanaeruBotz'
+global.wm = '© KanaeruBotz'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
